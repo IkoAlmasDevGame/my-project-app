@@ -7,7 +7,7 @@ const Created = () => {
                 <Footer.Title>
                     <Link href="https://github.com/IkoAlmasDevGame/" className="link">Github</Link>
                     <br />
-                    <Link href="https://youtube.com/@ikoalmas27" className="link">Youtube</Link>
+                    <Link href="https://www.youtube.com/@Ikoalmasofficial" className="link">Youtube</Link>
                 </Footer.Title>
                 </div>
         </Footer>
