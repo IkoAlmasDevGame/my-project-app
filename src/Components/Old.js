@@ -9,7 +9,11 @@ const Old = () => {
             className='text-center items-center'
             style={{fontSize:"18px", fontWeight:"500"}}>CD Terlama</h2>
             <Card>
-                <CardImg src='https://cdn.lorem.space/images/game/.cache/150x220/gta-sa.jpg' alt='GTA SA'/>
+                <CardImg src='https://cdn.lorem.space/images/game/.cache/150x220/gta-sa.jpg' alt='GTA SA' 
+                style={{
+                    width : "150px", height : "220px", marginLeft : "580px", marginTop : "5px"
+                }}
+                />
                 <Card.Body className="items-center text-center">
                     <Card.Header>
                         <Card.Title tag="h2">Grand Theft Auto: San Andreas</Card.Title>
@@ -29,7 +33,11 @@ const Old = () => {
                 </Card.Body>
             </Card>
             <Card>
-                <CardImg src='https://cdn.lorem.space/images/game/.cache/150x220/the-walking-dead.jpg' alt='The Walkin Dead' />
+                <CardImg src='https://cdn.lorem.space/images/game/.cache/150x220/the-walking-dead.jpg' alt='The Walkin Dead' 
+                style={{
+                    width : "150px", height : "220px", marginLeft : "580px", marginTop : "5px"
+                }}
+                />
                 <Card.Body className="items-center text-center">
                     <Card.Header>
                         <Card.Title tag='h2'>The Walking Dead</Card.Title>
