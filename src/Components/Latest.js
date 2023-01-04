@@ -11,7 +11,7 @@ const NewLatest = () => {
             <Card>
                 <CardImg src='https://cdn.lorem.space/images/game/.cache/150x220/gta-sa.jpg' alt='GTA SA'
                 style={{
-                    width : "150px", height : "220px", marginLeft : "580px", marginTop : "5px"
+                    width : "150px", height : "220px", margin : "auto", marginTop : "5px"
                 }} />
                 <Card.Body className="items-center text-center">
                     <Card.Header>
@@ -34,7 +34,7 @@ const NewLatest = () => {
             <Card>
                 <CardImg src='https://cdn.lorem.space/images/game/.cache/150x220/the-walking-dead.jpg' alt='The Walkin Dead' 
                 style={{
-                    width : "150px", height : "220px", marginLeft : "580px", marginTop : "5px"
+                    width : "150px", height : "220px", margin : "auto", marginTop : "5px"
                 }}
                 />
                 <Card.Body className="items-center text-center">
